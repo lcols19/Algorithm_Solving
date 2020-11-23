@@ -8,6 +8,7 @@ Solutions to coding challenges
 * [Under The Wire](#UnderTheWire)
 * [Rosetta Code](#Rosetta-Code)
 * [RootMe](#RootMe)
+* [HackerRank](#HackerRank)
 
 # CodeWars
 |   Language   |   Challenge   | Kyu | Solution |
@@ -43,6 +44,9 @@ No code currently displayed.
 No code currently displayed.
 
 # Rosetta-Code
+No code currently displayed.
+
+# RootMe
 No code currently displayed.
 
 # RootMe
