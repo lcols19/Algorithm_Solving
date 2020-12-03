@@ -1,14 +1,19 @@
 <h1 align="center">
-Solutions to coding challenges
+Solutions to challenges
 </h1>
 
-* [CodeWars](#CodeWars)
-* [Project Euler](#Project-Euler)
-* [Over The Wire](#OverTheWire)
-* [Under The Wire](#UnderTheWire)
-* [Rosetta Code](#Rosetta-Code)
-* [RootMe](#RootMe)
-* [HackerRank](#HackerRank)
+<p>Solutions to coding/cybersecurity challenges, CTFs and wargames.</p>
+
+* [CodeWars](#codewars)
+* [Project Euler](#project-euler)
+* [Over The Wire](#overthewire)
+* [Under The Wire](#underthewire)
+* [Rosetta Code](#rosetta-code)
+* [RootMe](#rootme)
+* [HackerRank](#hackerrank)
+* [TryHackMe](#tryhackme)
+* [HackTheBox](#hackthebox)
+* [42CTF](#42ctf)
 
 # CodeWars
 |   Language   |   Challenge   | Kyu | Solution |
@@ -38,16 +43,34 @@ Solutions to coding challenges
 | 3 |[Largest prime factor](https://projecteuler.net/problem=3)| 5% | [solution](https://github.com/lcols19/Algorithm_Solving/blob/main/Project_Euler/3.c) |
 
 # OverTheWire
-No code currently displayed.
+Wargames: 
+- [Bandit](https://github.com/lcols19/Algorithm_Solving/blob/main/OverTheWire/Bandit.md)
+- [Leviathan](https://github.com/lcols19/Algorithm_Solving/blob/main/OverTheWire/Leviathan.md)
+- [Natas](https://github.com/lcols19/Algorithm_Solving/blob/main/OverTheWire/Natas.md)
 
 # UnderTheWire
-No code currently displayed.
+Wargame: [Century](https://github.com/lcols19/Algorithm_Solving/blob/main/UnderTheWire/Century.md)
 
 # Rosetta-Code
 No code currently displayed.
 
 # RootMe
+Categories: 
+- [Cryptanalysis](https://github.com/lcols19/Algorithm_Solving/blob/main/RootMe/Cryptanalysis.md)
+- [Web Client](https://github.com/lcols19/Algorithm_Solving/blob/main/RootMe/WebClient.md)
+- [Web Server](https://github.com/lcols19/Algorithm_Solving/blob/main/RootMe/WebServer.md)
+
+# HackerRank
 No code currently displayed.
 
-# RootMe
-No code currently displayed.
+# TryHackMe
+Room: [Advent of Cyber 2](https://github.com/lcols19/Algorithm_Solving/blob/main/TryHackMe/Advent%20Of%20Cyber%202.md)
+
+# HackTheBox
+No walkthrough currently displayed.
+
+# 42CTF
+Categories: 
+- [Crypto](https://github.com/lcols19/Algorithm_Solving/blob/main/42CTF/Crypto.md)
+- [Reverse](https://github.com/lcols19/Algorithm_Solving/blob/main/42CTF/Reverse.md)
+- [Stegano](https://github.com/lcols19/Algorithm_Solving/blob/main/42CTF/Stegano.md)
