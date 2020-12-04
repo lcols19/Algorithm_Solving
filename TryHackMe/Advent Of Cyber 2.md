@@ -34,3 +34,23 @@ Authentication, Default credentials, Dictionary attacks using BurpSuite.<br>
 * Payloads
 ## Ressources
 [SecLists](https://github.com/danielmiessler/SecLists/) : Collection of common lists including usernames, passwords, URLs and so on.
+
+# Santa's watching
+## Topic and concepts
+Fuzzing, `gobuster` use, `wfuzz` use, <br>
+* API
+* Enumerating a web server for hidden files
+* Enumerating a web server for hidden folders
+* Error conditions
+* Fuzzing datestamps
+* Finding the specific name of a directory
+* Fuzzing with GET parameters
+* Using `gobuster` with directories
+* Wordlists
+## Ressources
+[gobuster](https://github.com/OJ/gobuster): GitHub webpage<br>
+[gobuster man](http://manpages.ubuntu.com/manpages/cosmic/man1/gobuster.1.html): man page of ``gobuster``
+`/usr/share/wordlists`: Default location for wordlists on Kali Linux<br>
+[wfuzz](https://github.com/xmendez/wfuzz): GitHub webpage<br>
+[wfuzz man](https://github.com/xmendez/wfuzz): man page of `wfuzz`<br>
+[AoC-Advent2020](https://assets.tryhackme.com/additional/cmn-aoc2020/day-4/wordlist): Advent of Cyber wordlist (containg among other things YYYYDDMM datestamps)<br>
