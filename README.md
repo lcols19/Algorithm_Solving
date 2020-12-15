@@ -2,7 +2,7 @@
 Solutions to challenges
 </h1>
 
-<p>Solutions to coding/cybersecurity challenges, CTFs and wargames.</p>
+<p>Solutions/Write-ups to coding/cybersecurity challenges, CTFs and wargames.</p>
 
 * [CodeWars](#codewars)
 * [Project Euler](#project-euler)
